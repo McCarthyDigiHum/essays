@@ -1,5 +1,3 @@
-#PoetryEX.md
-
 # To a Wreath of Snow
 ## by ==Emily Brontë=={Q80137}[^1]
 [^1]: From [The Poetry Foundation](https://www.poetryfoundation.org/poems/161908/to-a-wreath-of-snow)

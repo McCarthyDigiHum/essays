@@ -32,7 +32,7 @@ But angel like, when I awoke,<br/>
 Shining through darkness, sweetly spoke<br/>
 &nbsp;&nbsp;Of cloudy skies and mountains bare;<br/>
 
-.ve-map 11.18,-27.77 2 basemaps-Esri_WorldPhysical marker right width=60%
+.ve-map 11.18,-27.77 2 basemaps-Esri_WorldTerrain marker right width=60%
     - Q6395256
     - Q1558
     - Q513

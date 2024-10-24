@@ -47,3 +47,5 @@ And voiceless, soulless, messenger<br/>
 &nbsp;&nbsp;Thy presence waked a thrilling tone<br/>
 That comforts me while thou art here<br/>
 &nbsp;&nbsp;⁠And will sustain when thou art gone<br/>
+
+.ve-annotate

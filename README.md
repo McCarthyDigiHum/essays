@@ -8,7 +8,8 @@ Cannot be truly followed. You shall mark</br>
 Many a duteous and knee-crooking knave</br>
 That, doting on his own obsequious bondage,</br>
 Wears out his time, much like his master’s ass,</br>
-For naught but provender, and when he’s old, cashiered.</br>
+For naught but provender, and when he’s old, cashiered.
+.ve-media wc:Shield_Knave-_A_Horseman_MET_DP803261.jpg right w=30
 Whip me such honest knaves! Others there are</br>
 Who, trimmed in forms and visages of duty,</br>
 Keep yet their hearts attending on themselves,</br>

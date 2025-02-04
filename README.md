@@ -1,34 +1,26 @@
-# ==Othello=={Q26833} Act 1, Scene 1[^1] 
-##==Iago=={Q1655364}'s monologue
 
->IAGO:  O, sir, content you.</br>
-I follow him to serve my turn upon him.</br>
-We cannot all be masters, nor all masters</br>
-Cannot be truly followed. You shall mark</br>
-Many a duteous and knee-crooking knave</br>
-That, doting on his own obsequious bondage,</br>
-Wears out his time, much like his master’s ass,</br>
-For naught but provender, and when he’s old, cashiered.
+# Hello, Juncture
 
-**This is my commentary**
+This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
-.ve-media wc:Shield_Knave-_A_Horseman_MET_DP803261.jpg right width="40%"
->Whip me such honest knaves! Others there are</br>
-Who, trimmed in forms and visages of duty,</br>
-Keep yet their hearts attending on themselves,</br>
-And, throwing but shows of service on their lords,</br>
-Do well thrive by them; and when they have lined their coats,</br>
-Do themselves homage. These fellows have some soul,</br>
-And such a one do I profess myself. For, sir,</br>
-It is as sure as you are Roderigo,</br>
-Were I the Moor I would not be Iago.</br>
-In following him, I follow but myself.</br>
-Heaven is my judge, not I for love and duty,</br>
-But seeming so for my peculiar end.</br>
-For when my outward action doth demonstrate</br>
-The native act and figure of my heart</br>
-In complement extern, ’tis not long after</br>
-But I will wear my heart upon my sleeve</br>
-For daws to peck at. I am not what I am.
+## Aulacophora indica
 
-[^1]: [Folger Shakespear Library](https://www.folger.edu/explore/shakespeares-works/othello/read/1/1/#line-1.1.44)
+.ve-media wc:The_Bug_Peek.jpg right
+
+The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+
+This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+
+Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+
+Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+
+## Chitwan National Park, Nepal
+
+.ve-map Q1075023 right
+
+The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+
+An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+
+Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.

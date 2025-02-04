@@ -1,7 +1,7 @@
 # ==Othello=={Q26833} Act 1, Scene 1[^1] 
 ##==Iago=={Q1655364}'s monologue
 
-IAGO:  O, sir, content you.</br>
+>IAGO:  O, sir, content you.</br>
 I follow him to serve my turn upon him.</br>
 We cannot all be masters, nor all masters</br>
 Cannot be truly followed. You shall mark</br>
@@ -9,8 +9,11 @@ Many a duteous and knee-crooking knave</br>
 That, doting on his own obsequious bondage,</br>
 Wears out his time, much like his master’s ass,</br>
 For naught but provender, and when he’s old, cashiered.
-.ve-media wc:Shield_Knave-_A_Horseman_MET_DP803261.jpg right width=30
-Whip me such honest knaves! Others there are</br>
+
+**This is my commentary**
+
+.ve-media wc:Shield_Knave-_A_Horseman_MET_DP803261.jpg right width="40%"
+>Whip me such honest knaves! Others there are</br>
 Who, trimmed in forms and visages of duty,</br>
 Keep yet their hearts attending on themselves,</br>
 And, throwing but shows of service on their lords,</br>

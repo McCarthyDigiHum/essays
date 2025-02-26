@@ -1,14 +1,14 @@
 # ==Othello=={Q26833} Act 1, Scene 1[^1] 
 ##==Iago=={Q1655364}'s monologue
-
+<p>
 >IAGO:  O, sir, content you.</br>
 I follow him to serve my turn upon him.</br>
-We cannot all be masters, nor all masters</br>
+We <span style="color: red">cannot</span> all be masters, nor all masters</br>
 Cannot be truly followed. You shall mark</br>
 Many a duteous and knee-crooking knave</br>
 That, doting on his own obsequious bondage,</br>
 Wears out his time, much like his master’s ass,</br>
-For naught but provender, and when he’s old, cashiered.
+For naught but provender, and when he’s old, cashiered.</p>
 
 **This is my commentary**
 

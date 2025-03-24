@@ -20,7 +20,7 @@
 </div>
 
 .ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-01.jpg right caption="Burning sulfur mine"
-<span class="main"><p>
+<span class="main">
 <mark qid="Q1655364">IAGO</mark></br>
 &emsp; And let him find it. <mark description="trivial things">Trifles</mark> light as air 🌬️</br>
 &emsp; Are to the <span style="color:green;">jealous</span> confirmations strong 💪</br>
@@ -30,7 +30,7 @@
 &emsp; Which at the first <mark description="scarcely offend the taste"> are scarce found to distaste</mark> 🤫,</br>
 &emsp; But with a little <span style="background-color:#FFAAFF;">act upon the <span style="color:red;">blood</span></span> 🩸</br>
 &emsp; <span style="color:red;">Burn</span> 🔥 like the <mark qid="Q2255396">mines of sulfur</mark>.</br>
-</p></span>
+</span>
 <p class="comment"><i>Shakespeare references Othello's rage by punctuating these lines in the play with <span style="color:red;">violent</span> diction (shown in red text).</i></p>
 <span class="main">
 </br>
